@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Alpita Sharma</h1>
-<h3 align="center">A passionate frontend developer 🖥.</h3>
+<h1 align="center">Hello world, I'm Alpita Sharma</h1>
+<h3 align="center">A passionate frontend developer and coder  🖥.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpitasharma2&label=Profile%20views&color=0e75b6&style=flat" alt="alpitasharma2" /> </p>
 
