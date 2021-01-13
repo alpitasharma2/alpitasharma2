@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/alpitasharma2/alpitasharma2/master/alpita.png">
+<img src="https://raw.githubusercontent.com/alpitasharma2/alpitasharma2/master/Adobe1.png">
 <h1 align="center">Hello world, I'm Alpita Sharma ✨</h1>
 <h3 align="center">A passionate frontend developer and coder  🖥.</h3>
 
