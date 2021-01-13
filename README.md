@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpitasharma2&show_icons=true&locale=en&layout=compact" alt="alpitasharma2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpitasharma2&show_icons=true&locale=en" alt="alpitasharma2" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpitasharma2&theme=cobalt&show_icons=true&locale=en" >
