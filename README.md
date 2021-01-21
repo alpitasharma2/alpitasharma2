@@ -1,4 +1,4 @@
-
+<div style="padding: 20px 0px;"><img src="./alpita1.png" alt="alpita github banner"></div>
 <h1 align="center">Hello world, I'm Alpita Sharma🦋</h1>
 <h3 align="center">A passionate frontend developer and coder  🖥.</h3>
 
