@@ -8,6 +8,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/alpitasharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="alpitasharma" height="30" width="40" /></a>
 <a href="https://instagram.com/___alpitaaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="___alpitaaa" height="30" width="40" /></a>
+  
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,3 +18,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alpitasharma2&theme=dracula&show_icons=true&locale=en&layout=compact" alt="alpitasharma2" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpitasharma2&theme=dracula&show_icons=true&locale=en" >
+ 
