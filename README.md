@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alpitasharma2&theme=dracula&show_icons=true&locale=en" >
  
-Go and check out my personal portfolio <a href="https://alpitasharma2.github.io/myepitome/">By clicking here</a>
+Go and check out my personal portfolio 🌈 <a href="https://alpitasharma2.github.io/myepitome/">By clicking here ⚡</a>
