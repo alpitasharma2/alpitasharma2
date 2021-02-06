@@ -15,7 +15,7 @@
 	<a href="https://github.com/alpitasharma2"><img alt="github" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/alpita-sharma/"><img alt="linkedin" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.instagram.com/___alpitaaa/"><img alt="instagram" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
-	<a href="http://www.gmail.com/alpita09sh@gmail.com"><img alt="gmail" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+	<a href="https://mail.google.com/mail/u/alpita09sh@gmail.com"><img alt="gmail" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
 
 
