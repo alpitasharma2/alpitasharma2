@@ -18,8 +18,6 @@
 	<a href="https://www.instagram.com/___alpitaaa/"><img alt="instagram" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
 	<a href="https://mail.google.com/mail/u/alpita09sh@gmail.com"><img alt="gmail" width="20%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 </p>
- 
-Go and check out my personal portfolio 🌈 <a href="https://alpitasharma2.github.io/myepitome/">By clicking here ⚡</a>
 
 <table width="100%">
   <tr>
