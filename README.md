@@ -1,4 +1,4 @@
-
+<div style="padding: 20px 0px;"><img src="./svgwave2.svg" alt="alpita github banner"></div>
 <div style="padding: 20px 0px;"><img src="./imgg.png" alt="alpita github banner"></div>
 <h1 align="center">Hello world, I'm Alpita Sharma ✨</h1>
 <h3 align="center">A passionate frontend developer and coder ^_^.</h3>
@@ -26,3 +26,4 @@
  <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpitasharma2&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/> </td>
   </tr>
  <table>
+<div style="padding: 20px 0px;"><img src="./svgwave1.svg" alt="alpita github banner"></div>
