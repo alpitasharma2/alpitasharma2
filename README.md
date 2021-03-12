@@ -1,5 +1,5 @@
 
-
+<div style="padding: 20px 0px;"><img src="./api.png" alt="aaaa"></div>
 <h1 align="center">Hello world, I'm Alpita Sharma ✨</h1>
 <h3 align="center">A passionate frontend developer and coder ^_^.</h3>
 
