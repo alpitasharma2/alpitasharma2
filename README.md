@@ -1,7 +1,17 @@
+<h3 align="center"> Hi there 👋</h3>
+
+<p align="center">
+I'm Alpita, a self-motivated tech enthusiast.
+</p>
+
+<h4 align="center">
+💻 front-end developer | 🌱 | 💬 connect <a href="https://linkedin.com/alpita-sharma/">@alpita-sharma</a>
+</h4>
+<p  align="center">
+<a href="https://alpitasharma2.github.io/">https://alpitasharma2.github.io</a>
+</p> <br>
 
 <div style="padding: 20px 0px;"><img src="./api.png" alt="aaaa"></div>
-<h1 align="center">Hello world, I'm Alpita Sharma ✨</h1>
-<h3 align="center">A passionate frontend developer and coder ^_^.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpitasharma2&label=Profile%20views&color=0e75b6&style=flat" alt="alpitasharma2" /> </p>
 
