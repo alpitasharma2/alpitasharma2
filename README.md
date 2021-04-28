@@ -11,7 +11,7 @@ I'm Alpita, a self-motivated tech enthusiast.
 <a href="https://alpitasharma2.github.io/">https://alpitasharma2.github.io</a>
 </p> <br>
 
-<div style="padding: 20px 0px;"><img src="./api.png" alt="aaaa"></div>
+<div style="padding: 20px 0px;"><img src="./app.png" alt="aaaa"></div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpitasharma2&label=Profile%20views&color=0e75b6&style=flat" alt="alpitasharma2" /> </p>
 
