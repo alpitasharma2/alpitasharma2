@@ -1,14 +1,14 @@
-<h3 align="center"> Hi there 👋</h3>
+<h3 align="center" style="font-family:impact;"> Hi there 👋</h3>
 
 <p align="center">
-I'm Alpita, a self-motivated tech enthusiast.
+I'm Alpita Sharma, a self-motivated tech enthusiast.
 </p>
 
 <h4 align="center">
-💻 front-end developer | 🌱 | 💬 connect <a href="https://www.linkedin.com/in/alpita-sharma-619a981b6">@alpita-sharma 💫</a>
+💻 front-end developer || 🌱 || 💬 connect <a href="https://www.linkedin.com/in/alpita-sharma-619a981b6">@alpita-sharma 💫</a>
 </h4>
 <p  align="center">
-<a href="https://alpitasharma2.github.io/">https://alpitasharma2.github.io</a>
+<!---<a href="https://alpitasharma2.github.io/">https://alpitasharma2.github.io</a>--->
 </p> <br>
 
 <div style="padding: 20px 0px;"><img src="./app.png" alt="aaaa"></div>
