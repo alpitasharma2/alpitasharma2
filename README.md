@@ -8,7 +8,7 @@ I'm Alpita Sharma, a self-motivated tech enthusiast.
 💻 front-end developer || 🌱 || 💬 connect <a href="https://www.linkedin.com/in/alpita-sharma-619a981b6">@alpita-sharma 💫</a>
 </h4>
 <p  align="center">
-Click <a href="https://alpitasharma2.github.io/card/">here</a> and let's get connected.🙋‍♀️
+Click <a href="https://alpitasharma2.github.io/card/">here</a> and let's get connected.🦄
 </p> <br>
 
 <div style="padding: 20px 0px;"><img src="./qwerty.png" alt="aaaa"></div>
