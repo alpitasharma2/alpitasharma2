@@ -8,8 +8,7 @@ I'm Alpita Sharma, a self-motivated tech enthusiast.
 💻 Web developer || Coder || 🌱 || 💬 connect <a href="https://www.linkedin.com/in/alpita-sharma-619a981b6">@alpita-sharma 💫</a>
 </h4>
 <p  align="center">
-  <a href="https://avishka24.github.io/"> Here ></a>
-  <a href="https://alpitasharma2.github.io/myepitome/"> Do check out my portfolio</a>
+  <a href="https://alpitasharma2.github.io/myepitome/"> Do check out my portfolio ✨</a>
 </p> <br>
 
 <div style="padding: 20px 0px;"><img src="./qwerty.png" alt="aaaa"></div>
