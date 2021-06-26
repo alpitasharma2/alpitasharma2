@@ -22,8 +22,8 @@ I'm Alpita Sharma, a self-motivated tech enthusiast.
 <table width="100%">
   <tr>
     <td>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpitasharma2&show_icons=true&hide_border=true&theme=prussian"/> </td>
- <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpitasharma2&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=prussian"/> </td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=alpitasharma2&show_icons=true&hide_border=true&theme=onedark"/> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alpitasharma2&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=onedark"/> </td>
   </tr>
  <table>
 
