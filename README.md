@@ -4,10 +4,10 @@
 I'm Alpita Sharma, a self-motivated tech enthusiast.
 </p>
  <h4 align="center">
- 🍀 || 💬 connect <a href="https://www.linkedin.com/in/alpita-sharma-619a981b6">@alpita-sharma🌸</a>
+ 🍀 || 💬 connect <a href="https://www.linkedin.com/in/alpitasharma9">@alpita-sharma🌸</a>
 </h4>
 <p  align="center">
-  <a href="https://www.linkedin.com/in/alpitasharma9/"> Do check out my portfolio</a>
+  <a href="alpitasharma2.github.io/myepitome/"> Do check out my portfolio</a>
 </p> <br>
 
 <div style="padding: 20px 0px;"><img src="./yay1.png" alt="aaaa"></div>
