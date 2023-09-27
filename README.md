@@ -11,7 +11,6 @@ I'm Alpita Sharma, a self-motivated tech enthusiast.
 </p> <br>
 
 <div style="padding: 20px 0px;"><img src="./yay1.png" alt="aaaa"></div>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpitasharma2&label=Profile%20views&color=0e75b6&style=flat" alt="alpitasharma2" /> </p>
 
 
@@ -22,7 +21,7 @@ I'm Alpita Sharma, a self-motivated tech enthusiast.
   <tr>
     <td>
 
-   <tr> <td> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alpitasharma2&theme=dracula"></td>
+  
      <td><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alpitasharma2&theme=dracula"></td>
   </tr>
   </tr>
