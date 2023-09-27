@@ -16,15 +16,5 @@ I'm Alpita Sharma, a self-motivated tech enthusiast.
 
 
 </p>
-
-<table width="100%">
-  <tr>
-    <td>
-
-  
-     <td><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alpitasharma2&theme=dracula"></td>
-  </tr>
-  </tr>
- <table>
    
    
