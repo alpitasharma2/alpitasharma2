@@ -4,7 +4,10 @@
 I'm a backend developer with a strong foundation in server-side logic, database management, and API integration.With a problem-solving mindset, I aim to create efficient, reliable, and secure solutions that enhance user experience and support business goals
 </p>
  <h4 align="center">
- 🍀 <a href = "https://alpitaportfolio.netlify.app">Alpita's Portfolio</a> || 💬 connect <a href="https://www.linkedin.com/in/alpitasharma9">@alpita-sharma🌸</a>
+ 🍀 <a href = "https://alpitaportfolio.netlify.app">Alpita's Portfolio</a> || 💬Let's connect <a href="https://www.linkedin.com/in/alpitasharma9">@alpita-sharma🌸</a>
+</h4>
+<h4 align="center">
+ <a href = "https://mail.google.com/mail/u/0/?fs=1&to=alpita0908.dev@gmail.com&tf=cm">Gmail</a>✨
 </h4>
 <!-- <p  align="center">
   <a href="https://alpitasharma2.github.io/myepitome/"> Do check out my portfolio</a>
@@ -20,15 +23,15 @@ I'm a backend developer with a strong foundation in server-side logic, database 
 </p>
 <!-- <h3 align="center">I'm a backend developer with a strong foundation in server-side logic, database management, and API integration.With a problem-solving mindset, I aim to create efficient, reliable, and secure solutions that enhance user experience and support business goals.</h3>
 
-- 📫 How to reach me **alpita0908.dev@gmail.com**
+- 📫 How to reach me **alpita0908.dev@gmail.com** 📩
 
-- ⚡ Fun fact **you know your code is working perfectly if nobody ever notices it!**
+- ⚡ Fun fact **you know your code is working perfectly if nobody ever notices it!** 😎
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alpitasharma9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alpitasharma9" height="30" width="40" /></a>
-</p> -->
-
+</p>
+ -->
 
    
    
